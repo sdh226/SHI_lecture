@@ -1,4 +1,4 @@
-~~ 관성 모멘트 계산: 로봇팔 계산과 비교 ~~
+~~관성 모멘트 계산: 로봇팔 계산과 비교~~
 * 4 Bar Linkage and trajectory analysis
 * Slider Crank motion and trajectory analysis
 * Trajectory based design (inverse)
