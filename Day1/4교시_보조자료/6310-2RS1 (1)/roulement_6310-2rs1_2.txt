@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"6310-2RS1";"";
+"TraceParts.PartVersion";"1.1.6";"";
+"SUPPLIER";"SKF";"";
+"MASS";"1.121";"kg";
+"TraceParts.PartNumber";"10-22092016-094395";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Single row deep groove ball bearing, contact seal on both sides, Bore Ø 50 mm, Outside Ø 110 mm";"";
+"TraceParts.InstanceId";"10-22092016-0943958N8C5F528C1IVKI5PV50IQKZZ";"";
+"TraceParts.PartTitle";"Deep groove ball bearings, single row, contact seal on both sides";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"SKF:10-22092016-094395";"";
+"TraceParts.PartStatus";"Published";"";
